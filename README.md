@@ -1,5 +1,5 @@
 # Museo
-Ci sono n clienti, e quindi n thread, che comprano il proprio biglietto.
+Ci sono n clienti, e quindi n thread, che si presentano all'ingresso.
 
 Una volta che i clienti si presentano all’ingresso del museo, bisogna fare l’accettazione.
 Sono presenti 5 tornelli, dove verranno controllati i biglietti; a questi tornelli dovrà passare una solo persona alla volta. 
