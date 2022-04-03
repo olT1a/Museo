@@ -1,0 +1,2 @@
+ingresso = coda di persone che si presentano all'ingresso
+prenotazioni = lista di thread che inseriscono persone in ingresso
